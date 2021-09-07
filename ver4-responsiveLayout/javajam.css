@@ -288,6 +288,7 @@
         border-top: 2px #8c3826;
     }
     #flow{
+        display:flex;
         flex-direction: row;
     }
     #wrapper{
