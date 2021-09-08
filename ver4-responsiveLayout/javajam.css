@@ -31,7 +31,7 @@
         color: #fef6c2;
     }
     main{
-        padding-left: 0em;
+        padding-left: 0px;
         padding-right: 0em;
         padding-bottom: 2em;
         margin-left: 200px;
@@ -128,7 +128,11 @@
         margin-left: auto;
         padding: 0em;
         display: grid;
-        grid-template: "header header" "nav main" "footer footer" / 200px;
+        grid-template: 
+        'header header'
+        'nav main'
+        'footer footer'
+        / 200px ;
     }
     #homehero{
         background-image: url("images/hero.jpg");
