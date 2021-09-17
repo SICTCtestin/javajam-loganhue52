@@ -1,5 +1,7 @@
 # JavaJam Coffee Bar Assignment
 
+This assignment focuses on creating a site for the JavaJam Coffee Bar in order to practice creating an eye-pleasing site for customers to explore.
+
 # Chapter 2 - Basic HTML Code
 
 Chapter 2, the first chapter (weird right), includes the Basic HTML code without any css styling or formatting.
