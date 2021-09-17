@@ -56,7 +56,7 @@ Chapter 12 adds a merch store to the JavaJam website.
 
 https://github.com/SICTCtestin/javajam-loganhue52/tree/main/ch12-ecommerce
 
-#Chapter 13 - Meta
+# Chapter 13 - Meta
 
 Chapter 13 adds meta information to make the site more friendly to search engines.
 
